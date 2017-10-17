@@ -12,6 +12,7 @@
       <th style="text-align:left"> Genre </th>
     </tr>
     <xsl:for-each select="Favorites/collection/movie">
+    <xsl:sort select="title"/>
     <tr>
       <td><xsl:value-of select="title"/></td>
       <td><xsl:value-of select="year"/></td>
@@ -29,7 +30,8 @@
       <th style="text-align: left"> Console </th>
       <th style="text-align: left"> Publisher </th>
     </tr>
-    <xsl:for-each select="Favorites/game-collection/game[title='Doom']">
+    <xsl:for-each select="Favorites/game-collection/game">
+    <xsl:sort select="title"/>
       <tr>
         <td><xsl:value-of select="title"/></td>
         <td><xsl:value-of select="console"/></td>
