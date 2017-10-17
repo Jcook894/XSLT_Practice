@@ -29,7 +29,7 @@
       <th style="text-align: left"> Console </th>
       <th style="text-align: left"> Publisher </th>
     </tr>
-    <xsl:for-each select="Favorites/game-collection/game">
+    <xsl:for-each select="Favorites/game-collection/game[title='Doom']">
       <tr>
         <td><xsl:value-of select="title"/></td>
         <td><xsl:value-of select="console"/></td>

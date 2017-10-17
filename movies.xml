@@ -3,37 +3,37 @@
 <Favorites>
 <collection>
   <movie>
-    <title> The Kingsmen </title>
-    <year> 2017 </year>
-    <genre> Action </genre>
+    <title>The Kingsmen</title>
+    <year>2017</year>
+    <genre>Action</genre>
   </movie>
   <movie>
-    <title> The GoodFellas </title>
-    <year> 1980's </year>
-    <genre> Mob movie </genre>
+    <title>The GoodFellas</title>
+    <year>1980's</year>
+    <genre>Mob movie</genre>
   </movie>
   <movie>
-    <title> Donnie Darko </title>
-    <year> 2000 </year>
-    <genre> Suspense </genre>
+    <title>Donnie Darko</title>
+    <year>2000</year>
+    <genre>Suspense</genre>
   </movie>
 </collection>
 
 <game-collection>
   <game>
-    <title> The Legend of Zelda: BOTW </title>
-    <console>Nintendo Switch / Wii U </console>
-    <publisher> Nintendo </publisher>
+    <title>The Legend of Zelda: BOTW</title>
+    <console>Nintendo Switch / Wii U</console>
+    <publisher>Nintendo</publisher>
   </game>
   <game>
-    <title> Super Mario Odyssey </title>
-    <console> Nintendo Switch </console>
-    <publisher> Nintendo </publisher>
+    <title>Super Mario Odyssey</title>
+    <console>Nintendo Switch</console>
+    <publisher>Nintendo</publisher>
   </game>
   <game>
-    <title> Doom </title>
-    <console> Xbox one / PS4 / PC/ Nintendo Switch </console>
-    <publisher>  Bethesda </publisher>
+    <title>Doom</title>
+    <console>Xbox one / PS4 / PC/ Nintendo Switch</console>
+    <publisher>Bethesda</publisher>
   </game>
 </game-collection>
 </Favorites>
