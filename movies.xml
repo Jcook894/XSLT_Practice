@@ -1,76 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="movies.xsl" type="text/xsl" ?>
 <Favorites>
-<collection>
-  <movie>
-    <title>The Kingsmen</title>
-    <year>2017</year>
-    <genre>Action</genre>
-  </movie>
-  <movie>
-    <title>The GoodFellas</title>
-    <year>1980's</year>
-    <genre>Mob movie</genre>
-  </movie>
-  <movie>
-    <title>Donnie Darko</title>
-    <year>2000</year>
-    <genre>Suspense</genre>
-  </movie>
-</collection>
+  <collection>
+    <movie>
+      <title>The Kingsmen</title>
+      <year>2017</year>
+      <genre>Action</genre>
+    </movie>
+    <movie>
+      <title>The GoodFellas</title>
+      <year>1980's</year>
+      <genre>Mob movie</genre>
+    </movie>
+    <movie>
+      <title>Donnie Darko</title>
+      <year>2000</year>
+      <genre>Suspense</genre>
+    </movie>
+  </collection>
 
-<game-collection>
-  <game>
-    <title>The Legend of Zelda: BOTW</title>
-    <console>Nintendo Switch / Wii U</console>
-    <publisher>Nintendo</publisher>
-  </game>
-  <game>
-    <title>Super Mario Odyssey</title>
-    <console>Nintendo Switch</console>
-    <publisher>Nintendo</publisher>
-  </game>
-  <game>
-    <title>Doom</title>
-    <console>Xbox one / PS4 / PC/ Nintendo Switch</console>
-    <publisher>Bethesda</publisher>
-  </game>
-</game-collection>
-<kanto>
-  <pokemon>
-    <name>Jolteon</name>
-    <type>Electric</type>
-    <id>56</id>
-  </pokemon>
-  <pokemon>
-    <name>Pichu</name>
-    <type>Electric</type>
-    <id>45</id>
-  </pokemon>
-  <pokemon>
-    <name>T-Tar</name>
-    <type>Rock</type>
-    <id>100</id>
-  </pokemon>
-  <pokemon>
-    <name>Gengar</name>
-    <type>Dark</type>
-    <id>34</id>
-  </pokemon>
-  <pokemon>
-    <name>Togepi</name>
-    <type>Normal</type>
-    <id>108</id>
-  </pokemon>
-  <pokemon>
-    <name>Magmar</name>
-    <type>Fire</type>
-    <id>86</id>
-  </pokemon>
-  <pokemon>
-    <name>Raichu</name>
-    <type>Electric</type>
-    <id>178</id>
-  </pokemon>
-</kanto>
+  <game-collection>
+    <game>
+      <title>The Legend of Zelda: BOTW</title>
+      <console>Nintendo Switch / Wii U</console>
+      <publisher>Nintendo</publisher>
+    </game>
+    <game>
+      <title>Super Mario Odyssey</title>
+      <console>Nintendo Switch</console>
+      <publisher>Nintendo</publisher>
+    </game>
+    <game>
+      <title>Doom</title>
+      <console>Xbox one / PS4 / PC/ Nintendo Switch</console>
+      <publisher>Bethesda</publisher>
+    </game>
+  </game-collection>
+  <kanto>
+    <pokemon>
+      <name>Jolteon</name>
+      <type>Electric</type>
+      <id>56</id>
+    </pokemon>
+    <pokemon>
+      <name>Pichu</name>
+      <type>Electric</type>
+      <id>45</id>
+    </pokemon>
+    <pokemon>
+      <name>T-Tar</name>
+      <type>Rock</type>
+      <id>100</id>
+    </pokemon>
+    <pokemon>
+      <name>Gengar</name>
+      <type>Dark</type>
+      <id>34</id>
+    </pokemon>
+    <pokemon>
+      <name>Togepi</name>
+      <type>Normal</type>
+      <id>108</id>
+    </pokemon>
+    <pokemon>
+      <name>Magmar</name>
+      <type>Fire</type>
+      <id>86</id>
+    </pokemon>
+    <pokemon>
+      <name>Raichu</name>
+      <type>Electric</type>
+      <id>178</id>
+    </pokemon>
+  </kanto>
 </Favorites>
