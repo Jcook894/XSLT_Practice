@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="movies.xsl" type="text/xsl" ?>
+<Favorites>
 <collection>
   <movie>
     <title> The Kingsmen </title>
@@ -17,3 +18,22 @@
     <genre> Suspense </genre>
   </movie>
 </collection>
+
+<game-collection>
+  <game>
+    <title> The Legend of Zelda: BOTW </title>
+    <console>Nintendo Switch / Wii U </console>
+    <publisher> Nintendo </publisher>
+  </game>
+  <game>
+    <title> Super Mario Odyssey </title>
+    <console> Nintendo Switch </console>
+    <publisher> Nintendo </publisher>
+  </game>
+  <game>
+    <title> Doom </title>
+    <console> Xbox one / PS4 / PC/ Nintendo Switch </console>
+    <publisher>  Bethesda </publisher>
+  </game>
+</game-collection>
+</Favorites>
