@@ -40,6 +40,25 @@
     </xsl:for-each>
   </table>
 </div>
+<div>
+  <h2> My Favorite Pokemon </h2>
+  <table border="2">
+    <tr bgcolor="#DD17A4">
+      <th style="text-align: left"> Name </th>
+      <th style="text-align: left"> Type </th>
+      <th style="text-align: left"> ID </th>
+    </tr>
+    <xsl:for-each select="Favorites/kanto/pokemon">
+      <xsl:if test="id>50">
+      <tr>
+        <td><xsl:value-of select="name"/></td>
+        <td><xsl:value-of select="type"/></td>
+        <td><xsl:value-of select="id"/></td>
+      </tr>
+    </xsl:if>
+  </xsl:for-each>
+  </table>
+</div>
 </body>
 </html>
 </xsl:template>

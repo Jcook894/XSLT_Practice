@@ -36,4 +36,41 @@
     <publisher>Bethesda</publisher>
   </game>
 </game-collection>
+<kanto>
+  <pokemon>
+    <name>Jolteon</name>
+    <type>Electric</type>
+    <id>56</id>
+  </pokemon>
+  <pokemon>
+    <name>Pichu</name>
+    <type>Electric</type>
+    <id>45</id>
+  </pokemon>
+  <pokemon>
+    <name>T-Tar</name>
+    <type>Rock</type>
+    <id>100</id>
+  </pokemon>
+  <pokemon>
+    <name>Gengar</name>
+    <type>Dark</type>
+    <id>34</id>
+  </pokemon>
+  <pokemon>
+    <name>Togepi</name>
+    <type>Normal</type>
+    <id>108</id>
+  </pokemon>
+  <pokemon>
+    <name>Magmar</name>
+    <type>Fire</type>
+    <id>86</id>
+  </pokemon>
+  <pokemon>
+    <name>Raichu</name>
+    <type>Electric</type>
+    <id>178</id>
+  </pokemon>
+</kanto>
 </Favorites>
